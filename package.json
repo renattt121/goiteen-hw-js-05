@@ -1,0 +1,28 @@
+{
+  "name": "goiteen-hw-js-05",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renattt121/goiteen-hw-js-05.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renattt121/goiteen-hw-js-05/issues"
+  },
+  "homepage": "https://github.com/renattt121/goiteen-hw-js-05#readme",
+  "devDependencies": {
+    "@pnotify/core": "^5.2.0",
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "basiclightbox": "^5.0.4",
+    "chart.js": "^4.5.1"
+  }
+}
