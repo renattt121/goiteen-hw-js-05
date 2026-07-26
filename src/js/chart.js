@@ -47,10 +47,10 @@ const chartData = {
   ],
 };
 
-// 1. Отримуємо елемент canvas
+
 const ctx = document.querySelector("#sales-chart");
 
-// 2. Створюємо графік типу "line"
+
 const salesChart = new Chart(ctx, {
   type: "line",
   data: chartData,
